@@ -1,4 +1,4 @@
-import Radio, {RadioButton} from './lib/SimpleRadioButton.js'
+import Radio, {RadioButton} from './lib/Radio/SimpleRadioButton.js'
 // module.exports = Radio
 // module.exports = RadioButton
 

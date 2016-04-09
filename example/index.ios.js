@@ -16,7 +16,7 @@ var {
 } = React;
 
 
-var RadioButtonProject = React.createClass({
+var FormComponentsProject = React.createClass({
   getInitialState: function() {
     return {
       types1: [{label: 'param1', value: 0}, {label: 'param2', value: 1}],
@@ -27,7 +27,7 @@ var RadioButtonProject = React.createClass({
       value2Index: 0,
       types3: [{label: 'param1', value: 0}, {label: 'param2', value: 1}, {label: 'param3', value: 2},],
       value3: 0,
-      value3Index: 0,
+      value3Index: 0
     }
   },
   render: function() {
@@ -151,4 +151,4 @@ var styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('RadioButtonProject', () => RadioButtonProject);
+AppRegistry.registerComponent('RadioButtonProject', () => FormComponentsProject);
