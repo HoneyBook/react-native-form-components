@@ -1,10 +1,8 @@
 # react-native-simple-radio-button
-> simple and useful radio button component for React Native
-
-[![npm](https://img.shields.io/npm/v/react-native-simple-radio-button.svg)]()[![npm](https://img.shields.io/npm/l/react-native-simple-radio-button.svg)]()
-
-[![NPM](https://nodei.co/npm/react-native-simple-radio-button.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-simple-radio-button/)
-
+> Useful form components for React Native</br>
+> Checkbox group with multiple selection</br>
+> Radio group with Radio button selection
+Based on the library this library is forked from
 
 Demo
 ---
