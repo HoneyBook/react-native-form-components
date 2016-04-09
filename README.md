@@ -1,8 +1,8 @@
-# react-native-simple-radio-button
+# react-native-sform-components
 > Useful form components for React Native</br>
 > Checkbox group with multiple selection</br>
-> Radio group with Radio button selection
-Based on the library this library is forked from
+> Radio group with Radio button selection</br>
+> Based on moschan/react-native-simple-radio-button library
 
 Demo
 ---
