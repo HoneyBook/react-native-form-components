@@ -1,4 +1,4 @@
-# react-native-sform-components
+# react-native-form-components
 > Useful form components for React Native</br>
 > Checkbox group with multiple selection</br>
 > Radio group with Radio button selection</br>
